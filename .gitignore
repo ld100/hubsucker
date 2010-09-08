@@ -1,0 +1,5 @@
+.DS_Store
+tmp
+vendor/gems/gems
+vendor/gems/specifications
+vendor/gems/doc
